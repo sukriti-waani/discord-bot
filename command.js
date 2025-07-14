@@ -15,7 +15,7 @@ const commands = [
 // The version parameter specifies the Discord API version to use (v10 is the latest major version as of discord.js v14)
 const rest = new REST({ version: "10" }).setToken(
   // Set the bot token to authenticate the REST API requests
-  "MTM5Mzk1NjI5ODE4OTQzOTA1Ng.GChewY.8jIHHSeFjP-oVI2yJa0v37EMvDzD9xlMvLaHoM"
+  // "MTM5Mzk1NjI5ODE4OTQzOTA1Ng.GChewY.8jIHHSeFjP-oVI2yJa0v37EMvDzD9xlMvLaHoM"
 );
 
 // Immediately Invoked Async Function Expression (IIFE) to execute the registration logic
