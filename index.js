@@ -45,5 +45,5 @@ client.on("interactionCreate", (interaction) => {
 
 // Log in to Discord using the bot token to establish connection to the Discord API
 client.login(
-  // "MTM5Mzk1NjI5ODE4OTQzOTA1Ng.GChewY.8jIHHSeFjP-oVI2yJa0v37EMvDzD9xlMvLaHoM"
+  // {MY_TOKEN}
 );
